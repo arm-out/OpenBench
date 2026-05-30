@@ -1,6 +1,6 @@
 {
 	"private": false,
-	"nps": 102576,
+	"nps": 4696968,
 	"source": "https://github.com/arm-out/anton",
 
 	"build": {
@@ -22,7 +22,7 @@
 
 		"STC": {
 			"both_options": "Threads=1 Hash=256",
-			"both_time_control": "8.0+0.08",
+			"both_time_control": "20.0+0.2",
 			"workload_size": 32
 		},
 
